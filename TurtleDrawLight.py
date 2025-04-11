@@ -12,15 +12,13 @@
 
 import turtle
 
-print("Turtle Draw Lite Starting...")
+print("Turtle Draw Starting...")
 
-edTheTurtle = turtle.Turtle()
-edTheTurtle.forward(100)
-edTheTurtle.right(90)
-edTheTurtle.forward(100)
-edTheTurtle.right(90)
-edTheTurtle.forward(100)
-edTheTurtle.right(90)
-edTheTurtle.forward(100)
+f = open("turtledrawtext.txt", "r")
+fileContent = f.read()
+print(fileContent)
+print('testing open and read.')
+
+
 
 turtle.done()
