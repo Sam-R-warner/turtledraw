@@ -16,5 +16,7 @@ tddata = open("turtledrawtext.text", "r")
 line = tddata.readline()
 
 while line:
-	print(line)
+	print(line, end='')
+	parts = line.split(' ')
+	print(parts)
 	line = tddata.readline()
