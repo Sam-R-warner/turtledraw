@@ -2,7 +2,7 @@
 #By: Samuel Warner
 #Credits: Eric Pogue, Dr. Ray Klump, Chat-GPT
 #All rights reserved.
-#Note: Many more examples can be found by searching "python turtle example".
+#Note: Many more examples
 # https://michael0x2a.com/blog/turtle-examples
 # https://realpython.com/beginners-guide-python-turtle
 
